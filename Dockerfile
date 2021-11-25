@@ -13,8 +13,8 @@ ENV DROP_ALL=False
 
 # Port number which the Flask web app will be running on
 # Type: int
-ENV FLASK_HOST_PORT=5000
+ENV FLASK_HOST_PORT=8080
 
-EXPOSE 5000
+EXPOSE 8080
 
 CMD ["sh", "./docker-entrypoint.sh"] 
