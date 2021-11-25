@@ -38,5 +38,9 @@
     "GeosciencesCanada": {
         "url": "https://sta.geosciences.ca",
         "include": false
+    },
+    "BritishGeologicalSurvey": {
+        "url": "https://sensors.bgs.ac.uk/FROST-Server/v1.1",
+        "include": false
     }
 }
