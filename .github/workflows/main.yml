@@ -8,7 +8,7 @@ name: Create and publish a Docker image to GitHub Container Registry
 on:
   push:
     branches:
-      - master
+      - main
   release:
     types:
       - released
